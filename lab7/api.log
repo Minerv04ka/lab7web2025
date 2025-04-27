@@ -1,0 +1,4 @@
+2025-04-23 14:11:49,086 - INFO - Connected to database sqlite:///./library.db
+2025-04-23 14:11:49,086 - INFO - Application started and database connected
+2025-04-23 14:11:52,739 - INFO - GET / - Status: 404 - Duration: 0.001s
+2025-04-23 14:11:53,768 - INFO - GET /favicon.ico - Status: 404 - Duration: 0.000s
